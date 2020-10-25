@@ -1,6 +1,5 @@
-remote_theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 title: Kite47 Documentatin
 description: Knowledgebase for Kite47 users
-
-# logo: "https://www.kite47.com/assets/img/logo.png"
+logo: "https://www.kite47.com/assets/img/logo.png"
