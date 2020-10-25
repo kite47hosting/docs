@@ -2,4 +2,8 @@ remote_theme: pmarsceill/just-the-docs
 
 title: Kite47 Documentation
 description: Knowledgebase for Kite47 users
-logo: "/assets/images/logo.png"
+#logo: "/assets/images/logo.png"
+
+aux_links:
+  "Go to Kite47.com":
+    - "//kite47.com"
