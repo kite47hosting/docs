@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Email
-nav_order: 1
+nav_order: 4
 description: "Reliable email delivery with Kite47"
 has_children: true
 ---
 
-#We integrated with Amazon SES to give an amazing mailing experience
+# We integrated with Amazon SES to give an amazing mailing experience
 
-##Email
+## Email
