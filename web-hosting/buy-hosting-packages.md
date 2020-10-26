@@ -6,6 +6,6 @@ description: "Try out our well optimized base package"
 parent: Web hosting
 ---
 
-# Try out our well optimized base package backed by AWS
+# Try out our well optimized base package
 
 ## Buy hosting packages

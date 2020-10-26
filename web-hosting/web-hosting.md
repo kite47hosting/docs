@@ -2,11 +2,11 @@
 layout: default
 title: Web hosting
 nav_order: 2
-description: "Host your website on Kite47"
+description: "Our hosting infrastructure is completely on Amazon Cloud"
 has_children: true
 ---
 
-# Host your website on Kite47
+# Our hosting infrastructure is completely on Amazon Cloud
 
 ## Web hosting
 

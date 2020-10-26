@@ -2,10 +2,10 @@
 layout: default
 title: Deploy your website
 nav_order: 3
-description: "You are just few clicks away for a seemless experience"
+description: "Deploy just in few clicks and feel the difference"
 parent: Web hosting
 ---
 
-# You are just few clicks away for a seemless experience
+# Deploy just in few clicks and feel the difference
 
 ## Deploy your website
