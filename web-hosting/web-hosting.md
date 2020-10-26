@@ -2,7 +2,7 @@
 layout: default
 title: Web hosting
 nav_order: 2
-description: "Fast & Reliabe Web Hosting"
+description: "Host your website on Kite47"
 has_children: true
 ---
 
