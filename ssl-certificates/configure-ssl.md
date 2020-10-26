@@ -2,10 +2,10 @@
 layout: default
 title: Configure SSL
 nav_order: 2
-description: "We support Let's Encrypt to support your basic SSL needs"
+description: "Configure your SSL in just few clicks"
 parent: SSL certificates
 ---
 
-# Configuring your SSL certificate is easy
+# Configure your SSL in just few clicks
 
 ## Configure SSL

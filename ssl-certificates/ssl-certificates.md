@@ -2,11 +2,11 @@
 layout: default
 title: SSL certificates
 nav_order: 5
-description: "We support Let's Encrypt to support your basic SSL needs"
+description: "We encourage to have an SSL for every website"
 has_children: true
 ---
 
-# Get your FREE SSL certificate with Let's Encrypt today
+# We encourage to have an SSL for every website
 
 ## SSL Certificates
 
