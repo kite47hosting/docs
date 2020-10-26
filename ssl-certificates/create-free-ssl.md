@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSL Certificates
+title: Create free SSL
 nav_order: 1
 description: "We support Let's Encrypt to support your basic SSL needs"
 ---

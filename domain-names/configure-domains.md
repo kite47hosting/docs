@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domain names
+title: Configure domains
 nav_order: 3
 description: "Host Domain names in Kite47 platform"
 ---

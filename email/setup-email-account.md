@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Email
+title: Setup email
 nav_order: 2
 description: "Reliable email delivery with Kite47"
 ---

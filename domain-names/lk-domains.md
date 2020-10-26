@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domain names
+title: LK domains
 nav_order: 4
 description: "Host Domain names in Kite47 platform"
 ---

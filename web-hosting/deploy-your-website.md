@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Hosting
+title: Deploy your website
 nav_order: 3
 description: "Fast & Reliabe Web Hosting"
 ---

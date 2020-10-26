@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Hosting
+title: Buy hosting packages
 nav_order: 1
 description: "Fast & Reliabe Web Hosting"
 ---

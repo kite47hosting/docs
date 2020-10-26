@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domain names
+title: Buy domains
 nav_order: 1
 description: "Host Domain names in Kite47 platform"
 ---

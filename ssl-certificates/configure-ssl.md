@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSL Certificates
+title: Configure SSL
 nav_order: 2
 description: "We support Let's Encrypt to support your basic SSL needs"
 ---
