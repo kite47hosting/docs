@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSL Certificates
+title: SSL certificates
 nav_order: 5
 description: "We support Let's Encrypt to support your basic SSL needs"
 has_children: true

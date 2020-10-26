@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Hosting
+title: Web hosting
 nav_order: 2
 description: "Fast & Reliabe Web Hosting"
 has_children: true

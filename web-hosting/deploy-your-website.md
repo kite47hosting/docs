@@ -3,6 +3,7 @@ layout: default
 title: Deploy your website
 nav_order: 3
 description: "Fast & Reliabe Web Hosting"
+parent: Web hosting
 ---
 
 # You are just few clicks away
